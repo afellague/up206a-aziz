@@ -1,7 +1,8 @@
 # up206a
 **Aziz Fellague Ariouat (he/him)**, 1st year Master of Urban Planning student specializing in Transportation Planning and Policy
 
-Format: ![Alt Text] (https://www.instagram.com/p/Bw7pN3phtQPOovD6SNESnvPpi_2Gy-5AClFWCI0/?igshid=ysrq2dzfvphv)
+![Image of Aziz]
+(https://cla.csulb.edu/departments/geography/wp-content/uploads/2019/10/Aziz-e1572295532882.jpg)
 
 * **UP 206A - Intro to GIS and Spatial Data Science:** a class where mapping technologies are utilized in order to make sense of the world
 
