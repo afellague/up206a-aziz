@@ -1,5 +1,7 @@
-# up206a-aziz
-**Aziz Fellague Ariouat (he/him)**, 1st year Master of Urban Planning student specializing in Transportation Planning and Policy 
+# up206a
+**Aziz Fellague Ariouat (he/him)**, 1st year Master of Urban Planning student specializing in Transportation Planning and Policy
+
+Format: ![Alt Text] (https://www.instagram.com/p/Bw7pN3phtQPOovD6SNESnvPpi_2Gy-5AClFWCI0/?igshid=ysrq2dzfvphv)
 
 * **UP 206A - Intro to GIS and Spatial Data Science:** a class where mapping technologies are utilized in order to make sense of the world
 
