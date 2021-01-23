@@ -18,10 +18,10 @@ would have contributed to the rural roads bringing down the average of urban are
 Hampshire.
 
 The questions I would ask Geoff Beoing include:
-      1. Were there any anomalies in the findings such as non-straight streets but lower car-ownership and GHG emissions?
+      *1. Were there any anomalies in the findings such as non-straight streets but lower car-ownership and GHG emissions?
 
-      2. What are the reasons why sunbelt states with postwar suburban development aren’t as low as NE and Appalachia in 
-      terms of lack of street grids?
+      *2. What are the reasons why sunbelt states with postwar suburban development aren’t as low as NE and Appalachia in 
+terms of lack of street grids?
 
 
 
